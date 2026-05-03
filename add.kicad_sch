@@ -3348,20 +3348,8 @@
 		(uuid "f02d7f26-a6f4-4f54-8cbd-ec0e36b79ea9")
 	)
 	(no_connect
-		(at 40.64 66.04)
-		(uuid "5a4c4734-b3ea-43a0-aa61-dc12fecb988a")
-	)
-	(no_connect
 		(at 40.64 82.55)
 		(uuid "82ff594d-b9ec-45c6-bd17-adebb578a2ff")
-	)
-	(no_connect
-		(at 40.64 33.02)
-		(uuid "89bc83a5-4902-482f-94b1-d86adaab2db3")
-	)
-	(no_connect
-		(at 40.64 49.53)
-		(uuid "d491ab0d-a4a6-4eb3-b28f-022bcf04e090")
 	)
 	(wire
 		(pts
@@ -3913,6 +3901,16 @@
 		)
 		(uuid "69efce0e-73cc-402e-b065-92324823aff1")
 	)
+	(label "GND'"
+		(at 40.64 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "700ecc27-22e9-4c2a-83fa-04254486f5a2")
+	)
 	(label "FACE"
 		(at 16.51 187.96 0)
 		(effects
@@ -3962,6 +3960,26 @@
 			(justify right bottom)
 		)
 		(uuid "946463df-6f50-4235-b66a-ea72395ae476")
+	)
+	(label "GND'"
+		(at 40.64 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9dde4c4d-e211-497c-b630-ca7ff8949378")
+	)
+	(label "GND'"
+		(at 40.64 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a0a92f1c-bcdf-4589-837d-58c6a61fa3a2")
 	)
 	(label "FACE"
 		(at 31.75 180.34 0)
