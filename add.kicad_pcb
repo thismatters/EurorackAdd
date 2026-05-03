@@ -1635,7 +1635,7 @@
 				)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "100n"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "32d8da30-fc68-49b8-93a9-54d5247a1b12")
